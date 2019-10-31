@@ -1,0 +1,5 @@
+User A,deposit,15.00,
+User A,deposit,20.00,
+User A,withdrawal,10.00,
+User B,deposit,15.00,
+User B,withdrawal,25.00,
