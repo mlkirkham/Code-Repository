@@ -61,7 +61,7 @@ def main():
         treeList.append(min(treeDict.values()))
         return treeList
 
-    genes = readfasta('FinalProblemCS4.txt')#puts the sequences into a list in FASTA format.
+    genes = readfasta('CSPars.txt')#puts the sequences into a list in FASTA format.
     sequences = []
     for i in range(0, len(genes)): #pulls just the sequences from the list.
         sequences.append(genes[i][2])

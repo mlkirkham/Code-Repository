@@ -1,5 +1,4 @@
 """
-Kirkham_CS_MidtermQ1.py
 
 A program that simulates the molecular evolution of a population of DNA sequences,
 then prints out each sequence in the final population. The model simulates natural selection
